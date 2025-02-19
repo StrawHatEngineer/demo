@@ -1,0 +1,20 @@
+{
+    "appReleaseVersion": "24.50",
+    "author": "vinay.thapa_instabase.com",
+    "createdAtMs": "1737981177000",
+    "description": "initial release",
+    "id": "db327242-5e1b-4c72-9fcd-9a8cf5b10fe1",
+    "isCustomizable": true,
+    "linkSharingMode": "OFF",
+    "metadata": "{\"authors\":[\"vinay.thapa_instabase.com\"],\"billing_model\":\"default\",\"has_project_snapshot\":true,\"icon\":\"icon.png\",\"org_context_type\":\"COMMERCIAL\",\"project_id\":\"0194a79d-bbcd-79de-ad84-56cf154b91df\",\"results\":\"\",\"samples\":\"output/s1_process_files\",\"schema\":\"schema.json\"}",
+    "name": "CICD Build App",
+    "owner": "vinay.thapa_instabase.com",
+    "solutionType": "EXTRACTION",
+    "solution_path": "system/global/fs/Instabase Drive/Applications/Deployed/All/db327242-5e1b-4c72-9fcd-9a8cf5b10fe1",
+    "state": "PRODUCTION",
+    "summary": "Build app that extract details from two classes: Meal Receipt and Bank Statement",
+    "updateMode": "UPDATE_WHEN_EXPIRED",
+    "updatedAtMs": "1737981193000",
+    "version": "0.0.1",
+    "visibility": "PRIVATE"
+}
